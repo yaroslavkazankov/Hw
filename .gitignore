@@ -3,3 +3,10 @@
 .venv
 .task_plan
 /venv/
+**/data/
+**/logs/
+**/config/
+*.pyc
+*.pyo
+
+**/__pycache__/
